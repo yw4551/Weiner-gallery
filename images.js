@@ -1008,8 +1008,8 @@ const categories = [
     ]
   },
   {
-    name: '☀️Summer 2024☀️',
-    description: 'All of the fun time in Jerusamem',
+    name: 'Summer 2024',
+    description: '☀️All of the fun time in Jerusamem ☀️',
     image: 'images/old city 4.jpeg',
     images: [
         'images/General 1.jpeg',
