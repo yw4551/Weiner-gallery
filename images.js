@@ -614,7 +614,7 @@ const categories = [
 },
   {
     name: 'Austria',
-    description: '✈A fun trip to Austria️✈️',
+    description: '✈️ A fun trip to Austria️ ✈️',
     image: 'images/Alps 16.jpeg',
     images: [
         'images/The way to Austria 1.jpeg',
