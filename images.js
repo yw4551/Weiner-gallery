@@ -899,7 +899,7 @@ const categories = [
   },
   {
     name: 'Eilat',
-    description: 'All the fun times in Eilat',
+    description: '✈️All the fun times in Eilat✈️',
     image: 'images/eilat 8.jpeg',
     images: [
       'images/eilat 1.jpeg',
@@ -996,7 +996,7 @@ const categories = [
   },
   {
     name: 'Month pics',
-    description: "Adina's month grouth",
+    description: "❤️Adina's month grouth ❤️",
     image: 'images/month pics 1.jpeg',
     images: [
     'images/month pics 1.jpeg',
@@ -1008,7 +1008,7 @@ const categories = [
     ]
   },
   {
-    name: 'Summer 2024',
+    name: '☀️Summer 2024☀️',
     description: 'All of the fun time in Jerusamem',
     image: 'images/old city 4.jpeg',
     images: [
