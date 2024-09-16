@@ -424,7 +424,7 @@ footer {
 
 .footer-name {
   font-size: 1.5em;
-  color: #8F730C;
+  color: #fff;
   margin-bottom: 0.5em;
 }
 
@@ -433,7 +433,7 @@ footer {
 }
 
 .footer-links a {
-  color: #8F730C;
+  color: #fff;
   text-decoration: none;
   margin: 0 0.5em;
   transition: color 0.3s ease;
@@ -446,7 +446,7 @@ footer {
 .footer-bottom {
   text-align: center;
   margin-top: 1.5em;
-  border-top: 1px solid #8F730C;
+  border-top: 1px solid #fff;
   padding-top: 1em;
   font-size: 0.9em;
 }
